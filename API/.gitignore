@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+# The bundled database is committed on purpose (POC); its temporary journal files are not.
+data/*.db-wal
+data/*.db-shm

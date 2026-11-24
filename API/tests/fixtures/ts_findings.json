@@ -1,0 +1,88 @@
+{
+ "full": [
+  {
+   "id": "conversion:branch:B3",
+   "confidence": "high",
+   "methods": [
+    "two-proportion"
+   ],
+   "observed": "14% (10 of 72 finished enquiries, likely range 8%–24%)"
+  },
+  {
+   "id": "funnel:B3:contacted",
+   "confidence": "high",
+   "methods": [
+    "two-proportion"
+   ],
+   "observed": "60% (46 of 77)"
+  },
+  {
+   "id": "data:status-history",
+   "confidence": "high",
+   "methods": [
+    "consistency"
+   ],
+   "observed": "14 of 510 leads"
+  },
+  {
+   "id": "funnel:B3:negotiation",
+   "confidence": "medium",
+   "methods": [
+    "two-proportion"
+   ],
+   "observed": "54% (14 of 26)"
+  },
+  {
+   "id": "volume:B1:enquiries:2025-11",
+   "confidence": "medium",
+   "methods": [
+    "poisson"
+   ],
+   "observed": "27 enquiries"
+  },
+  {
+   "id": "loss-mix:B5",
+   "confidence": "medium",
+   "methods": [
+    "chi-square"
+   ],
+   "observed": "11 × \"Dissatisfied with test drive\""
+  },
+  {
+   "id": "funnel:B3:test_drive",
+   "confidence": "medium",
+   "methods": [
+    "two-proportion"
+   ],
+   "observed": "63% (27 of 43)"
+  },
+  {
+   "id": "volume:B1:enquiries:2025-08",
+   "confidence": "medium",
+   "methods": [
+    "poisson"
+   ],
+   "observed": "4 enquiries"
+  }
+ ],
+ "manager_B3": [
+  {
+   "id": "data:status-history",
+   "confidence": "high",
+   "methods": [
+    "consistency"
+   ],
+   "observed": "7 of 79 leads"
+  }
+ ],
+ "rep_SR13": [
+  {
+   "id": "data:status-history",
+   "confidence": "high",
+   "methods": [
+    "consistency"
+   ],
+   "observed": "1 of 24 leads"
+  }
+ ]
+}

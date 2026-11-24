@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 30" role="img" aria-label="Toyota">
+  <!-- Simplified emblem for demo use. Replace with the official artwork from Toyota's dealer brand kit before public launch. -->
+  <g fill="none" stroke="#d8232a" stroke-width="2.6">
+    <ellipse cx="22" cy="15" rx="19.5" ry="12.5"/>
+    <ellipse cx="22" cy="10.6" rx="10.6" ry="5.6"/>
+    <ellipse cx="22" cy="16.4" rx="4.2" ry="10.4"/>
+  </g>
+  <text x="50" y="21" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.6" fill="#d8232a">TOYOTA</text>
+</svg>
